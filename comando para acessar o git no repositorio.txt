@@ -1,0 +1,19 @@
+C:/Users/allan/Downloads/Git/
+
+$ cd C:/Users/allan/Downloads/Git/
+
+$ git init
+
+caminho do repositório criado 
+
+C:/Users/allan/Downloads/servidor/
+
+
+
+C:/Users/allan/Downloads/ana/projeto
+
+Integração Contínua: Maturidade e Produtividade no desenvolvimento de Software 
+
+Docker: Criando containers sem dor de cabeça
+
+Vagrante: Gerenciando máquinas virtuais
